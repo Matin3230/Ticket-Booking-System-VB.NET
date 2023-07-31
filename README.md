@@ -2,7 +2,7 @@
 
 **Abstract**
 
-The project is about the “Ticket Booking system”. This project is implemented in VB.net platform using a concept of object oriented programming. So we make a project on TICKET BOOKING SYSTEM in Microsoft Visual Studio 2012 software. 
+The project is about the “Ticket Booking system”. This project is implemented in VB.net platform using a concept of object oriented programming. The VB.net course enables students to develop programs in ‘Microsoft Visual Studio’ using object oriented programming approach.
 
 a. Developed GUI Application using Form Controls and its events.
 
